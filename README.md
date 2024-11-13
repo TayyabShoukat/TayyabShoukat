@@ -1,3 +1,4 @@
+![logo](https://github.com/TayyabShoukat/TayyabShoukat/blob/master/1727195138156.jpg)
 <h1 align="center">Hi 👋, I'm Tayyab Shoukat</h1>
 <h3 align="center">Full Stack Web Developer | Certified Cloud Applied Generative AI Engineer (WMD) | Microservices | Containerization | Docker</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
