@@ -17,11 +17,11 @@
 🔹 Skilled in **AI, Automation, Web Development, and Cloud Technologies** – bridging the gap between modern web apps and next-gen AI systems.  
 🔹 Experienced in **designing, developing, and deploying** AI-driven applications that enhance business workflows and create real-world impact.  
 
-- 🔭 Currently working on: **Chat Models with LangGraph & LangChain**  
-- 🌱 Learning: **Generative AI, LangGraph, RAG Architectures**  
+- 🔭 Currently working on: **AI Agents with OpenAI SDK & n8n**  
+- 🌱 Learning: **Generative AI, LangGraph,CrewAI, RAG Architectures**  
 - 📝 Writing about: **AI & Automation**  
 - 💬 Ask me about: **Next.js, React, FastAPI, Node.js, LangChain, Docker**  
-- 📫 Reach me at: **tayyabshoukat1995@gmail.com**  
+- 📫 Reach me at: **tayyab.shoukat.ed@gmail.com**  
 - ⚡ Fun fact: **I automate things to save time... and then spend that saved time learning new tech 😅**  
 
 ---
