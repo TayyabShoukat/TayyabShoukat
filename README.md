@@ -31,7 +31,7 @@
 ### 🌐 Connect With Me  
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/tayyab-shoukat-58b742118" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/tayyab-shoukat-58b742118" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/tayyab.shoukat.oo7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a></td>
     <td><a href="https://instagram.com/tayyabshoukat588" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
   </tr>
@@ -65,10 +65,14 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabshoukat&theme=darkhub" alt="tayyabshoukat" /></a> </p>
+### 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabShoukat&theme=dark" alt="GitHub Streak" />
+</p>
+
 
 ---
 
 ✨ *Building the future with AI, Automation & Full Stack Engineering* 🚀  
-
