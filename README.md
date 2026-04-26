@@ -15,7 +15,6 @@
 
 ### 🚀 About Me
 
-
 🔹 I’m a **Certified Agentic AI Engineer & Full Stack Developer** passionate about building intelligent, scalable, and high-performance solutions.  
 🔹 Skilled in **AI, Automation, Web Development, and Cloud Technologies** – bridging the gap between modern web apps and next-gen AI systems.  
 🔹 Experienced in **designing, developing, and deploying** AI-driven applications that enhance business workflows and create real-world impact.  
