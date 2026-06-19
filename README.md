@@ -9,7 +9,6 @@ l![logo](https://github.com/TayyabShoukat/TayyabShoukat/blob/master/abc.jpg)
 </p>
 
 
-
 ---
 
 ### 🚀 About Me
